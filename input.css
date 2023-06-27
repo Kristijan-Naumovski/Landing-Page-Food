@@ -1,0 +1,8 @@
+@import "tailwidscss/base";
+@import "tailwindcss/components";
+@import "tailwincss/utilities";
+@import '@fontsource-variable/lora';
+@import '@fontsource-variable/karla';
+body {
+    font-family: 'Lora Variable', sans-serif;
+  }
